@@ -22,13 +22,13 @@
 
 ## Insights (What It Means)
 
-Admission rate is too high (52.4%) – Suggests over-admission or lack of observation unit. Hurts ER throughput.
+Admission rate is too high (52.4%)       – Suggests over-admission or lack of observation unit. Hurts ER throughput.
 
-Satisfaction is very low (4.96/10) – Wait time alone isn't the issue. Likely poor communication, staff attitude, or facility problems.
+Satisfaction is very low (4.96/10)       – Wait time alone isn't the issue. Likely poor communication, staff attitude, or facility problems.
 
-62% of patients wait >30 minutes – Indicates staffing mismatches vs. patient arrival patterns.
+62% of patients wait >30 minutes        – Indicates staffing mismatches vs. patient arrival patterns.
 
-58% missing department referrals – Major data quality gap prevents resource planning.
+58% missing department referrals        – Major data quality gap prevents resource planning.
 
 Pediatric volume is highest (0–9 years) – ER may lack child-specific resources.
 
