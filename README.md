@@ -34,11 +34,17 @@ Pediatric volume is highest (0–9 years) – ER may lack child-specific resourc
 
 Orthopedics drives 30% of referrals – Opportunity for fast-track orthopedic protocol.
 
-Quick Recommendations
-Problem	Fix
+#Quick Recommendations
+##Problem	Fix
+
 High admission rate  -	Create observation unit
+
 Low satisfaction	   - Patient surveys + staff training
+
 Long delays	         - Fast-track + shift adjustments
+
 Missing data	       - Make referral field mandatory
+
 Pediatric volume	   - Dedicated pediatric area
+
 Orthopedics volume	 - Orthopedic fast-track
