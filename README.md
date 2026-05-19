@@ -21,6 +21,9 @@ This dashboard will help stakeholders monitor, analyze, and make better decision
 
 <img width="1294" height="537" alt="image" src="https://github.com/user-attachments/assets/b6ebab69-1796-45e9-a1c7-1dfb651692d2" />
 
+# Charts to create
+<img width="1283" height="573" alt="image" src="https://github.com/user-attachments/assets/ae07f2de-3fcb-4644-b795-442df0f09824" />
+
 
 # Findings – January 2024
 
