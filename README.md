@@ -12,3 +12,7 @@
 # Project Steps
 
 <img width="1294" height="536" alt="image" src="https://github.com/user-attachments/assets/cfd62b29-1e23-40f4-a378-b97ee98dea0a" />
+
+# KPIs Requirement
+
+<img width="1294" height="537" alt="image" src="https://github.com/user-attachments/assets/b6ebab69-1796-45e9-a1c7-1dfb651692d2" />
