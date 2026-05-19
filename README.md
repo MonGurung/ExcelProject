@@ -18,33 +18,36 @@
 <img width="1294" height="537" alt="image" src="https://github.com/user-attachments/assets/b6ebab69-1796-45e9-a1c7-1dfb651692d2" />
 
 
-# Findings (Key Data Points)
+# Findings – January 2024
 
-## Insights (What It Means)
+## Metric	Value
 
-Admission rate is too high (52.4%)       – Suggests over-admission or lack of observation unit. Hurts ER throughput.
+Total patients	        - 513
 
-Satisfaction is very low (4.96/10)       – Wait time alone isn't the issue. Likely poor communication, staff attitude, or facility problems.
+Avg. wait time      	  - 36.3 min
 
-62% of patients wait >30 minutes        – Indicates staffing mismatches vs. patient arrival patterns.
+Satisfaction score	    - 4.96 / 10
 
-58% missing department referrals        – Major data quality gap prevents resource planning.
+Admission rate	        - 52.4%
 
-Pediatric volume is highest (0–9 years) – ER may lack child-specific resources.
+Patients delayed (>30 min) -	61.6%
 
-Orthopedics drives 30% of referrals – Opportunity for fast-track orthopedic protocol.
+Top age group  -	0–9 (76 patients)
 
-# Quick Recommendations
-## Problem	Fix
+Top departments referral - 	General Practice (103), Orthopedics (65)
 
-High admission rate  -	Create observation unit
+Gender split -	Male 53% / Female 47%
 
-Low satisfaction	   - Patient surveys + staff training
+# Insights
 
-Long delays	         - Fast-track + shift adjustments
+Admission rate too high (52.4%) – Needs observation unit.
 
-Missing data	       - Make referral field mandatory
+Satisfaction very low (4.96) – Poor communication or staff issues.
 
-Pediatric volume	   - Dedicated pediatric area
+62% wait >30 min – Staffing mismatch with patient flow.
 
-Orthopedics volume	 - Orthopedic fast-track
+Children are largest group – Lacks pediatric resources.
+
+GP & Ortho drive volume – Fast-track opportunity.
+
+
