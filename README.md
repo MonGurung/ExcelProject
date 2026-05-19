@@ -5,7 +5,7 @@
 
 # Dashboard
 - <a href="https://github.com/MonGurung/ExcelProject/blob/main/Hospital%20ER%20room%20project.xlsx">Dashboard View</a>
-
+## Screenshot of dashboard
 <img width="1635" height="882" alt="image" src="https://github.com/user-attachments/assets/7ef19210-683e-4484-a104-6944ccc6f14c" />
 
 
