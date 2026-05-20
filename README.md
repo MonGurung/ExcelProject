@@ -1,8 +1,9 @@
 # Excel Project
 
 # 1. Purpose of Project
-We need to create a Hospital Emergency Room Analysis Dashboard in Excel to improve efficiency and provide useful insights. 
-This dashboard will help stakeholders monitor, analyze, and make better decisions for managing patients and improving services.
+The purpose of this project was to create an interactive Hospital Emergency Room Analysis Dashboard in Microsoft Excel to enhance operational efficiency
+and generate meaningful insights. The dashboard enables stakeholders to monitor performance, analyze patient data, identify trends, and make informed decisions
+to improve patient management and overall healthcare services
 
 # 2. Dataset used
 - <a href="https://github.com/MonGurung/ExcelProject/blob/main/Dataset.xlsx">Dataset View</a>
