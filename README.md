@@ -24,6 +24,18 @@ This dashboard will help stakeholders monitor, analyze, and make better decision
 # 6. Charts to create
 <img width="1283" height="573" alt="image" src="https://github.com/user-attachments/assets/ae07f2de-3fcb-4644-b795-442df0f09824" />
 
+## Calender Table Formula used
+= List.Dates(#date(2023,01,01),731,#duration(1,0,0,0))
+
+## DAX formulas
+DAX Formula for Age Group : 
+
+=IF([Patient Age]>=70,"70-79",IF([Patient Age]>=60,"60-69",IF([Patient Age]>=45,45-59,IF([Patient Age]>=30,"30-44",IF([Patient Age]>=15,"15-29",IF([Patient Age]>=5,"05-14","0-4")))))) 
+
+DAX Formula For Patient Attend Status :
+
+=IF([Patient Waittime]>30,"Delay","Ontime")  
+
 
 # 7. Findings – January 2024
 
